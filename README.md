@@ -1,5 +1,4 @@
-[TODO: Replace with your Netflify status badge]
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e8142d92-4288-49a5-a8b4-119bb4c45658/deploy-status)](https://app.netlify.com/sites/rebeccab/deploys)
 # HTML and CSS Assessment
 
 For your unit 2 assessment you are required to create a website portfolio in HTML and CSS. As you progress throughout the course you are expected to continue adding and refining your portfolio, however by the due date of this assessment you must have what is stated in the [criteria](#assessment-criteria) pushed to your portfolio GitHub ready to be marked.
